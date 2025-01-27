@@ -1,0 +1,18 @@
+SCOM Alert: Operations_Manager_Failed_to_Access_the_Windows_Event_Log
+
+Alert Description:
+   Alert Monitor:    Failed Accessing Windows Event Log 
+
+  The Windows Event Log Provider is still unable to open the DhcpAdminEvents event log on computer 'mscvdhcp01.petrochem.local'.
+  The Provider has been unable to open the DhcpAdminEvents event log for 720 seconds.
+  
+  Most recent error details: Access is denied.
+  
+  One or more workflows were affected by this. 
+    
+  Workflow name: many
+  
+  Instance name: many
+  
+  Instance ID: many
+ 
