@@ -2,9 +2,9 @@
 
 | Time      | Category       | Task/Item                  | Details                                                                | Notes                           | Completed                           |
 |-----------|----------------|----------------------------|------------------------------------------------------------------------|---------------------------------|---------------------------------|
-| 7:30 AM   | Wake Up        | Hydration                  | 16 oz water + DIY (1/2 tsp salt, 1/4 tsp lite salt, 1/4 tsp Mg citrate) | ~1,440mg Na, 350mg K, 60mg Mg   |
-| 7:30 AM   | Wake Up        | Coffee                     | 2 cups black coffee (~190mg caffeine)                                  | Boosts ketosis, alertness       |
-| 7:30 AM   | Supplements    | Creatine                   | Thorne Creatine Monohydrate (5g, in coffee/water)                      | Muscle/brain support            |
+| 7:30 AM   | Wake Up        | Hydration                  | 16 oz water + DIY (1/2 tsp salt, 1/4 tsp lite salt, 1/4 tsp Mg citrate) | ~1,440mg Na, 350mg K, 60mg Mg   | No
+| 7:30 AM   | Wake Up        | Coffee                     | 2 cups black coffee (~190mg caffeine)                                  | Boosts ketosis, alertness       | Yes
+| 7:30 AM   | Supplements    | Creatine                   | Thorne Creatine Monohydrate (5g, in coffee/water)                      | Muscle/brain support            | No
 | 7:30 AM   | Supplements    | B12                        | Pure Encapsulations B12 (1,000 mcg, sublingual)                        | Energy, cognition               |
 | 8:00 AM   | Activity       | Walk                       | 90 min brisk walk (3-4 mph, ~300 cal)                                  | Recovery burn                   |
 | 8:00 AM   | Hydration      | Water + Electrolytes       | 32 oz water + DIY (1/2 tsp salt, 1/4 tsp lite salt)                    | ~1,440mg Na, 350mg K            |
